@@ -8,7 +8,7 @@ build:
     env: DEV
     build_file: none
     output_files: output/*.zip
-    image_template: node-14.17
+    image_template: node-14.21
 
 deploy:
     context: mushraf6461/DEV
